@@ -69,24 +69,24 @@ then `yarn` to install the dependencies
 
 ## Features
 
-- A column can be renamed or removed [x]
+- A column can be renamed or removed :white_check_mark:
 
-- The user can add tasks to a column [x]
+- The user can add tasks to a column :white_check_mark:
 
-- A task can be added to any column. A task features a short description which is output to the kanban board. To edit the short description, the user clicks the task and updates the text of the caption in the dialog window that opens. [x]
+- A task can be added to any column. A task features a short description which is output to the kanban board. To edit the short description, the user clicks the task and updates the text of the caption in the dialog window that opens. :white_check_mark:
 
-- A task can be dragged to another column [x]
+- A task can be dragged to another column :white_check_mark:
 
-- A task can be removed. [x]
+- A task can be removed. :white_check_mark:
 
-- In the dialog window which is used to edit the task properties, the user can provide the full description of the task. [x]
+- In the dialog window which is used to edit the task properties, the user can provide the full description of the task. :white_check_mark:
 
-- A task can be opened on a dedicated page by using a link. When open, the task features a short description (caption), full description, the name of the column where the task can be located on the kanban board, as well as the creation time and the time of the latest update. Using this page, the user can delete the task. [x]
+- A task can be opened on a dedicated page by using a link. When open, the task features a short description (caption), full description, the name of the column where the task can be located on the kanban board, as well as the creation time and the time of the latest update. Using this page, the user can delete the task. :white_check_mark:
 
-- All columns and tasks must be stored in memory of the graphql service. [x]
+- All columns and tasks must be stored in memory of the graphql service. :white_check_mark:
 
 Optional / Nice to see:
 
-Advanced feature 1: enable adding multiple kanban boards providing their name and an alias for opening a selected board.[x]
+Advanced feature 1: enable adding multiple kanban boards providing their name and an alias for opening a selected board.:white_check_mark:
 
-Advanced feature 2: store everything not in graphql memory but in redis or pgsql.[x]
+Advanced feature 2: store everything not in graphql memory but in redis or pgsql.:white_check_mark:

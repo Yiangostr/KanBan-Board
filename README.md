@@ -35,7 +35,7 @@ DB_NAME=
 
 ##### 2.1 my Env example (picture 4)
 
-![Image](https://imgur.com/a/uEy7Xqw)
+![Image](https://i.imgur.com/Fc9mwgO.png)
 
 ```
 DB_HOST=localhost:5432
